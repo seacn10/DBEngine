@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DBEngine", "DBEngine\DBEngine.vcxproj", "{E5CCF339-1756-4D45-B97D-341FB3E94746}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DBEngine_test", "DBEngine_test\DBEngine_test.vcxproj", "{7E25A24B-17A2-4AB1-90C9-AA95C5E45285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CCF339-1756-4D45-B97D-341FB3E94746}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5CCF339-1756-4D45-B97D-341FB3E94746}.Debug|Win32.Build.0 = Debug|Win32
+		{E5CCF339-1756-4D45-B97D-341FB3E94746}.Release|Win32.ActiveCfg = Release|Win32
+		{E5CCF339-1756-4D45-B97D-341FB3E94746}.Release|Win32.Build.0 = Release|Win32
+		{7E25A24B-17A2-4AB1-90C9-AA95C5E45285}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E25A24B-17A2-4AB1-90C9-AA95C5E45285}.Debug|Win32.Build.0 = Debug|Win32
+		{7E25A24B-17A2-4AB1-90C9-AA95C5E45285}.Release|Win32.ActiveCfg = Release|Win32
+		{7E25A24B-17A2-4AB1-90C9-AA95C5E45285}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
